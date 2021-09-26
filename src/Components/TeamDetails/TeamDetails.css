@@ -1,0 +1,16 @@
+.teamStyle{
+    text-align:justify;
+    color:forestgreen;
+    padding-left: 10px;
+}
+
+.teamStyle h3{
+ font-weight: bold;
+}
+.teamStyle h5{
+    font-weight: bold;
+   }
+.selectedMember{
+    font-weight:500px;
+    color: deeppink;
+}

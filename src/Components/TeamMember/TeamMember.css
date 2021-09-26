@@ -1,0 +1,61 @@
+.team-btn{
+    background-color: steelblue;
+    width: 150px;
+    height: 30px;
+    color: white;
+    cursor: pointer;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.card__style{
+    width: 250px;
+    background: transparent;
+    border: 0px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.card__title{
+    font-weight: bold;
+}
+
+.card__text__style{
+    font-weight: bold;
+    font-size: 50px;
+    
+}
+
+/* .button__style{
+    border-radius: 40px;
+}  */
+    
+  
+.button__style {background-image: linear-gradient(to right, #FF512F 0%, #DD2476  51%, #FF512F  100%)}
+.button__style {
+   margin: 10px;
+   padding: 15px 45px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   box-shadow: 0 0 20px #eee;
+   display: block;
+ }
+
+ .button__style:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+
+ Card {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 0 0px 20px 0 rgba(0,0,0,0.2);
+    background-color: rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+ }
+    
